@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
+
+
 # Hey 👋 I'm Anant Singh Chauhan
 ### Full Stack Developer • Student • Building Modern Web Apps
 
@@ -72,3 +78,4 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=an-an-t&theme=tokyonight&hide_border=true"/>
 </p>
+
