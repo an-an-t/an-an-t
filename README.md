@@ -38,6 +38,37 @@ I enjoy building modern, responsive, and user-friendly web applications while co
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bootstrap,tailwind,figma,npm" />
 </p>
 
-## 📊 GitHub Analytics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+<h2>🚀 Developer Highlights</h2>
+
+<table>
+<tr>
+<td>💻 <b>Full Stack Development</b></td>
+<td>Building responsive and scalable web applications.</td>
+</tr>
+
+<tr>
+<td>🌱 <b>Currently Learning</b></td>
+<td>PHP, MySQL, Advanced JavaScript & Backend Development.</td>
+</tr>
+
+<tr>
+<td>🎯 <b>Goal</b></td>
+<td>Become a professional Full Stack Developer and contribute to open source.</td>
+</tr>
+
+<tr>
+<td>⚡ <b>Interests</b></td>
+<td>Web Development, UI/UX, Problem Solving & Clean Code.</td>
+</tr>
+</table>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=an-an-t&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an-an-t&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=an-an-t&theme=tokyonight&hide_border=true"/>
+</p>
