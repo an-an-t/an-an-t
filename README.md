@@ -7,7 +7,7 @@
 # Hey 👋 I'm Anant Singh Chauhan
 ### Full Stack Developer • Student • Building Modern Web Apps
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Javascript+%2C+PHP+%2C+MySQL;Learning+Sumthing+New+Every+Day;Full+Stack+Developer+;Building+Real+World+Project+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CSS+%2C+javaScript+%2C+Node.js+%2Cexpress+%2C+MySQL;Learning+Sumthing+New++Every+Day;Full+Stack+Developer;Building+Real+World+Project;Welcome)](https://git.io/typing-svg)
 <br>
 ## 👨‍💻 About Me
 
