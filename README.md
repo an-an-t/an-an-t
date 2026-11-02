@@ -70,12 +70,6 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 </tr>
 </table>
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=an-an-t&theme=tokyonight&hide_border=true"/>
-</p>
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
