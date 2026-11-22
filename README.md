@@ -116,3 +116,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+
+
+![snake gif](https://github.com/an-an-t/an-an-t/blob/output/github-snake-dark.svg)
