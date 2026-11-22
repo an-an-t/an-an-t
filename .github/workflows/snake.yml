@@ -16,6 +16,8 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
 
 
   # Trigger the workflow on pushes to the main branch
