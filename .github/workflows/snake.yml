@@ -4,7 +4,7 @@ name: GitHub Snake Game
 
 on:
 
-  # Schedule the workflow to run daily at midnight UTC
+  # Schedule the workflow daily
 
   schedule:
 
@@ -16,8 +16,6 @@ on:
 
   workflow_dispatch:
 
-permissions:
-  contents: write
 
 
   # Trigger the workflow on pushes to the main branch
@@ -29,6 +27,8 @@ permissions:
       - main
 
 
+permissions: 
+  contents: write
 
 jobs:
 
